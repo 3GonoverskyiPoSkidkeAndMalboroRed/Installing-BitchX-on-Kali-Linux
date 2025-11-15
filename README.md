@@ -113,11 +113,6 @@ sudo apt install -y build-essential libncurses5-dev git autoconf automake libtoo
 
 2. Проверьте вывод `configure` на наличие ошибок
 
-3. Если проблема сохраняется, соберите полный вывод `make` и обратитесь за помощью:
-   - IRC канал: #BitchX на EFNet
-   - Форум: http://sourceforge.net/projects/bitchx/
-   - FAQ: http://wiki.bitchx.org/faq:start
-
 ## Дополнительная информация
 
 - Официальный репозиторий: https://github.com/lgblgblgb/BitchX
