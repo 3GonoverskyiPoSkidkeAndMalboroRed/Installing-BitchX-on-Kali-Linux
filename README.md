@@ -117,8 +117,6 @@ sudo apt install -y build-essential libncurses5-dev git autoconf automake libtoo
 
 - Официальный репозиторий: https://github.com/lgblgblgb/BitchX
 - Инструкции по установке: https://github.com/lgblgblgb/BitchX/blob/master/INSTALL
-- Скрипты для BitchX: http://scripts.bitchx.org
-- FAQ: http://wiki.bitchx.org/faq:start
 
 ## Примечания
 
